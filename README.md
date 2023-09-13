@@ -1,14 +1,10 @@
-# Expo Router Example
+# Ippt-App
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+Simple ippt points calculator using react native, typescript, and expo go 
 
-## 🚀 How to use
+## WIP 
 
-```sh
-npx create-expo-app -e with-router
-```
+![image](https://github.com/samsonsim2/ippt-app/assets/106437135/12777726-2d87-4933-b818-e0125a2da538)
 
-## 📝 Notes
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+ 
